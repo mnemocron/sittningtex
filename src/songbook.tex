@@ -1,13 +1,15 @@
-\documentclass[9pt]{article}
+\documentclass{article}
+
 
 % IMPORTANT : Don't forget to compile changes twice, as the table of contents and backgrounds require it to be correctly updated
 
 % Importation of the settings file
 \input{songbook.sty}
  
-\newdate{date}{01}{01}{1970}
-\title{\vspace{34em}\textbf{\color{white}\Huge{SONGBOOK}}}
-\date{\vspace{-3em}\color{white}\Large\displaydate{date}}
+\newdate{date}{10}{09}{2019}
+\title{\vspace{40em}\textbf{\color{white}\Huge{}}}
+\date{\vspace{-3em}\color{white}}
+\author{}
 
 % Mandatory command. Parameters :
 % 1 - <Long> or <Short>, defines whether the booklet is folded long-edge or short-edge
@@ -18,11 +20,11 @@
 \songpos{0}
 
 \backgroundsetup{
-	scale=1,
+	scale=2,
 	opacity=1,
-	angle=0,
-	vshift=0,
-	contents={\includegraphics[width=\paperwidth]{images/template-cover.png}}
+	angle=90,
+	hshift=0,
+	contents={\includegraphics[width=\paperwidth]{images/base/template-cover.png}}
 }
 
 \begin{document}
@@ -40,87 +42,89 @@
 \customtoc{Tonight's Songs}{.7cm}
 
 \vfill
+\newpage
 
-\begin{center}
-\noindent\textbf{\Large What is Sitsit?}\medskip\\
-\end{center}
-
-{\noindent A Sitsit is a form of dinner that is very popular in universities across Scandinavia, where students gather to share a meal while singing songs all night long. It is animated by a host that leads the attendance in crazy songs all evening. It is especially beloved by \textit{Teekkaris} (engineering students) in Helsinki, Finland, which is where this form of Sitsit originates from.}
+\sitsit
 
 \vfill
-\newpage
 
 % Displays the rules
 \rules
+
+\vfill
 
 % Displays the seating information
 \seating
 
 \newpage
-\begin{multicols}{\columns}
+
+\ifthenelse{\equal{1}{\columns}}{}{\begin{multicols}{\columns}}
 \begin{songs}{}
 
 % Decide your song order here (all songs and their identifiers are in songbook.dat)
 % If you dislike the way your songs are cut between pages, change their order or insert page breaks with "\sclearpage"
 
-\song{dearfriends}
-\song{thisfeeling}
-\song{wasted}
+\song{fi_hyvatystavat}
+\song{en_dearfriends}
+\song{xx_iovivat}
+\song{en_coatsoff}
+
+\song{en_wasted_long}
+\song{en_syphilis}
+\song{en_notredame}
+\song{en_thisfeeling}
+\song{sw_helangar}
+\song{xx_henkilokunta}
+\song{en_drunkenstudent}
+
+\song{en_farover}
+\song{en_paratrooper_short}
+\song{xx_trink}
+\song{en_yogibear}
+\song{xx_minne}
+\song{de_einprosit}
+
+
+\song{en_mybonnie}
+\song{en_twelvedays_xmas}
+\song{fr_chansondelataverne}
+\song{en_wimoweh}
+\song{en_diggydiggyhole}
+\song{en_rollmeover}
 \sclearpage
-\song{henkilokuntaEN}
-\song{drunkenstudent}
-\song{fizzycider}
-\song{helangar}
-\song{hellandgore}
-\song{irishtale}
-\song{syphilis}
-\song{farover}
-\song{paratrooperShort}
-\song{trinkEN}
-\song{twelvedays}
-\song{alcohol}
-\song{yakkosworld}
-\song{mybonnie}
-\song{chansondelabbayeShort}
-\song{marchofthewaterboys}
-\song{tristitude2}
-\song{tanaanotetaanshort}
-\song{nyt}
+\song{fr_tristitude_epfl_3}
 \sclearpage
-\song{wimoweh}
-\song{rollmeover}
-\song{somesaythedevilisdead}
-\song{koskenkorva}
-\song{santianoPerv}
-\song{fastfood}
-\song{diggydiggyhole}
-\song{eurovisionCH}
-\song{beercannonCH}
-\song{internationalenFR}
-\song{sorkansallit}
-\song{gegene}
-\song{bigbangtheory}
-\song{myfavoritedrinks}
-\song{livetarharligt}
-\sclearpage
-\song{iloverocknroll}
-\song{thriftshop}
-\song{latiaffe}
-\song{apoil}
-\song{chansondelataverne}
-\sclearpage
-\song{softkitty}
-\song{erasmus}
-\song{switzerlandcuisine}
-\song{connemara}
-\song{whoisafreshman}
+\song{xx_koskenkorva_2}
+\song{en_lakegeneva}
+\song{xx_internationalen_2}
+\song{en_eurovision_lausanne}
+\song{en_fastfood}
+\song{en_jinglebells}
+\song{en_cursedxmas}
+
+
+\song{en_beercannon_swiss}
+\song{sw_livetarharligt}
+\song{en_bigbangtheory}
+\song{en_softkitty}
+\song{en_yurop}
+\song{en_sunshine}
+
+\song{fr_connemara}
+\song{en_erasmus_lausanne}
+\song{en_auldlangsyne_modern}
+\song{en_freshman_safe}
 
 \end{songs}
-\end{multicols}
+\ifthenelse{\equal{1}{\columns}}{}{\end{multicols}}
 \newpage
 \begin{center}
 \pagenumbering{gobble}
-\vspace*{25em}
-\includegraphics[width=8cm]{images/template-logo.png}
+\vspace*{15em}
+{\Huge NOT\\}
+\vspace*{5em}
+\includegraphics[width=\linewidth]{images/base/template-logo.png}
 \end{center}
+\vfill
+\license
 \end{document}
