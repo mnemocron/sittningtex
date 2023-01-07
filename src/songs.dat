@@ -85,7 +85,7 @@ en_helangar = Hell and Gore = To the tune of “Helan Går” = {%
 	}
 }
 
-en_beercannon_swiss = Beer Cannon = ? = {%
+en_beercannon_swiss = Beer Cannon = To the tune of “Frère Jacques” = {%
 	\verse{%
 		:;: Eichhof Lager :;:\\%
 		:;: Cardinal :;:\\%
@@ -120,7 +120,7 @@ en_bigbangtheory = The Big Bang Theory = ? = {%
 	}
 }
 
-en_wasted = Wasted = ? = {%
+en_wasted = Wasted = To the tune of “Star Wars Theme” = {%
 	\verse{%
 		:;: Wasted, wa-wa-wa-wasted, wa-wa-wa-wasted, we're gonna get :;:\\%
 	}
@@ -135,7 +135,7 @@ en_wasted = Wasted = ? = {%
 	}
 }
 
-en_wasted_long = Wasted = ? = {%
+en_wasted_long = Wasted = To the tune of “Star Wars Theme” = {%
 	\verse{%
 		:;: Wasted, wa-wa-wa-wasted, wa-wa-wa-wasted, we're gonna get :;:\\%
 	}
@@ -254,7 +254,7 @@ en_eurovision = Eurovision = To the tune of “Eurovision Theme” = {%
 		The French drink Champagne and Chardonnay,\\%
 		In Germany they drink beer,\\%
 		In Russia they drink Vodka,\\%
-		In Finland we drink everything,\\%
+		In Sweden we drink everything,\\%
 		So let's all raise a glass to that!\\%
 	}
 	\verse{%
@@ -274,7 +274,8 @@ en_eurovision = Eurovision = To the tune of “Eurovision Theme” = {%
 	\verse{%
 		Austria exports kangaroos,\\%
 		Swedes export IKEA,\\%
-		Ukraine exports Crimea,\\%
+		\sout{Ukraine exports Crimea},\\%
+		\textbf{and Russia propaganda},\\%
 		Germany exports refugees,\\%
 		All Finland does is send them back!\\%
 	}
@@ -368,7 +369,7 @@ en_twelvedays = Twelve Days of Binge-Drinking = To the tune of “Twelve Days of
 	}
 }
 
-en_twelvedays_xmas = Twelve Days of Christmas (but with booze of course) = To the tune of “Twelve Days of Christmas”, increasingly drunkenly = {%
+en_twelvedays_xmas = Twelve Days of Binge Drinking = To the tune of “Twelve Days of Christmas”, increasingly drunkenly = {%
 	\verse{%
 		My first day of Christmas started happily,\\%
 		With a large Long Island Ice Tea.\\%
@@ -2241,7 +2242,7 @@ fi_trink = Jos eukkosi kieltää sua juomasta = ? = {%
 	}
 }
 
-fi_beercannon = Beer Cannon = ? = {%
+fi_beercannon = Beer Cannon = To the tune of “Frère Jacques” = {%
 	\verse{%
 		Lapin Kulta, Lapin Kulta\\%
 		Karjala, Karjala\\%
@@ -2252,7 +2253,7 @@ fi_beercannon = Beer Cannon = ? = {%
 	}
 }
 
-fi_beercannon_long = Beer Cannon = ? = {%
+fi_beercannon_long = Beer Cannon = To the tune of “Frère Jacques” = {%
 	\verse{%
 		:;: Lapin Kulta :;:\\%
 		:;: Karjala :;:\\%
@@ -4364,4 +4365,71 @@ xx_letitgo = Let it go = ? = {%
 		De vriekou daar zat ik toch lang niet mee\\%
 	}
 }
+
+
+sw_staffanvisan = Staffanvisan = ? = {%
+	\verse{%
+		Staffan var en stalledräng,\\%
+		men inte någon stjärna.\\%
+		Han gilla' inte att gå hem,\\%
+		dit gick han inte gärna.\\%
+		Ingen dager synes än,\\%
+		därför stannar jag till fem, sa Staffan!\\%
+	}
+}
+
+en_staffanvisan = Staffan's song = To the tune of “Staffanvisan” = {%
+	\verse{%
+		Staffan was a stableboy,\\%
+		but not a very good one.\\%
+		He did not like to go home,\\%
+		he did not like to go there.\\%
+		No dawn is yet seen\\%
+		so I will stay until five, said Staffan!\\%
+	}
+}
+
+xx_staffanvisan = Staffan's song = To the tune of “Staffanvisan” = {%
+	\verse{%
+		Staffan var en stalledräng,\\%
+		men inte någon stjärna.\\%
+		Han gilla' inte att gå hem,\\%
+		dit gick han inte gärna.\\%
+		Ingen dager synes än,\\%
+		därför stannar jag till fem, sa Staffan!\\%
+	}
+	\verse{%
+		Staffan was a stableboy,\\%
+		but not a very good one.\\%
+		He did not like to go home,\\%
+		he did not like to go there.\\%
+		No dawn is yet seen\\%
+		so I will stay until five, said Staffan!\\%
+	}
+}
+
+en_procrastinate = Procrastinate = To the tune of “O crhistmas tree” = {%
+	\verse{%
+		Procrastinate,\\%
+		can’t concetrate,\\%
+		I’d rather date or celebrate.\\%
+	}
+	\verse{%
+		Procrastinate,\\%
+		can’t concentrate,\\%
+		I’d rather date or celebrate.\\%
+	}
+	\verse{%
+		Just one more Netflix episode,\\%
+		who cares about the study load.\\%
+	}
+	\verse{%
+		Procrastinate,\\%
+		can’t concentrate,\\%
+		oh, will I ever graduate.\\%
+	}
+}
+
+
+
 
