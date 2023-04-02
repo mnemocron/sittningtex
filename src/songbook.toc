@@ -1,0 +1,27 @@
+\babel@toc {english}{}\relax 
+\contentsline {subsection}{{\textbf {\textit {1\hspace {.4cm}}}}\DTLfetch {songdata}{key}{en_dearfriends}{title}}{4}{}%
+\contentsline {subsection}{{\textbf {\textit {2\hspace {.4cm}}}}\DTLfetch {songdata}{key}{en_syphilis}{title}}{4}{}%
+\contentsline {subsection}{{\textbf {\textit {3\hspace {.4cm}}}}\DTLfetch {songdata}{key}{en_thisfeeling}{title}}{4}{}%
+\contentsline {subsection}{{\textbf {\textit {4\hspace {.4cm}}}}\DTLfetch {songdata}{key}{sw_helangar}{title}}{5}{}%
+\contentsline {subsection}{{\textbf {\textit {5\hspace {.4cm}}}}\DTLfetch {songdata}{key}{en_heresthefirst}{title}}{5}{}%
+\contentsline {subsection}{{\textbf {\textit {6\hspace {.4cm}}}}\DTLfetch {songdata}{key}{en_clapyourhands}{title}}{5}{}%
+\contentsline {subsection}{{\textbf {\textit {7\hspace {.4cm}}}}\DTLfetch {songdata}{key}{en_drunkenstudent}{title}}{6}{}%
+\contentsline {subsection}{{\textbf {\textit {8\hspace {.4cm}}}}\DTLfetch {songdata}{key}{en_paratrooper}{title}}{6}{}%
+\contentsline {subsection}{{\textbf {\textit {9\hspace {.4cm}}}}\DTLfetch {songdata}{key}{en_engineersdrinkingsong_fhnw}{title}}{7}{}%
+\contentsline {subsection}{{\textbf {\textit {10\hspace {.4cm}}}}\DTLfetch {songdata}{key}{fr_chansondelataverne}{title}}{8}{}%
+\contentsline {subsection}{{\textbf {\textit {11\hspace {.4cm}}}}\DTLfetch {songdata}{key}{en_fizzycider}{title}}{8}{}%
+\contentsline {subsection}{{\textbf {\textit {12\hspace {.4cm}}}}\DTLfetch {songdata}{key}{es_spanishtoast}{title}}{8}{}%
+\contentsline {subsection}{{\textbf {\textit {13\hspace {.4cm}}}}\DTLfetch {songdata}{key}{xx_staffanvisan}{title}}{9}{}%
+\contentsline {subsection}{{\textbf {\textit {14\hspace {.4cm}}}}\DTLfetch {songdata}{key}{en_procrastinate}{title}}{9}{}%
+\contentsline {subsection}{{\textbf {\textit {15\hspace {.4cm}}}}\DTLfetch {songdata}{key}{en_mybonnie}{title}}{9}{}%
+\contentsline {subsection}{{\textbf {\textit {16\hspace {.4cm}}}}\DTLfetch {songdata}{key}{en_twelvedays}{title}}{10}{}%
+\contentsline {subsection}{{\textbf {\textit {17\hspace {.4cm}}}}\DTLfetch {songdata}{key}{xx_internationalen_2}{title}}{10}{}%
+\contentsline {subsection}{{\textbf {\textit {18\hspace {.4cm}}}}\DTLfetch {songdata}{key}{en_eurovision_fhnw}{title}}{11}{}%
+\contentsline {subsection}{{\textbf {\textit {19\hspace {.4cm}}}}\DTLfetch {songdata}{key}{en_cursedxmas}{title}}{12}{}%
+\contentsline {subsection}{{\textbf {\textit {20\hspace {.4cm}}}}\DTLfetch {songdata}{key}{sw_jasen}{title}}{12}{}%
+\contentsline {subsection}{{\textbf {\textit {21\hspace {.4cm}}}}\DTLfetch {songdata}{key}{en_beercannon_swiss}{title}}{12}{}%
+\contentsline {subsection}{{\textbf {\textit {22\hspace {.4cm}}}}\DTLfetch {songdata}{key}{en_softkitty}{title}}{12}{}%
+\contentsline {subsection}{{\textbf {\textit {23\hspace {.4cm}}}}\DTLfetch {songdata}{key}{en_yurop}{title}}{12}{}%
+\contentsline {subsection}{{\textbf {\textit {24\hspace {.4cm}}}}\DTLfetch {songdata}{key}{en_erasmus_lausanne}{title}}{13}{}%
+\contentsline {subsection}{{\textbf {\textit {25\hspace {.4cm}}}}\DTLfetch {songdata}{key}{fr_tristitude_epfl_3}{title}}{14}{}%
+\contentsline {subsection}{{\textbf {\textit {26\hspace {.4cm}}}}\DTLfetch {songdata}{key}{en_freshman_safe}{title}}{15}{}%
