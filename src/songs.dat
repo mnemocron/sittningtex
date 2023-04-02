@@ -249,6 +249,44 @@ en_softkitty = Soft Kitty = ? = {%
 	}
 }
 
+en_eurovision_fhnw = Eurovision = To the tune of “Eurovision Theme” = {%
+	\verse{%
+		The French drink Champagne and Chardonnay,\\%
+		In Germany they drink beer,\\%
+		In Russia they drink Vodka,\\%
+		In Windisch we drink everything,\\%
+		So let's all raise a glass to that!\\%
+	}
+	\verse{%
+		I've heard they eat snow in Helsinki,\\%
+		In Norway rotten raw fish,\\%
+		In Russia frozen Vodka,\\%
+		Thus if you're into cold food,\\%
+		A Sittning is the place to be!\\%
+	}
+	\verse{%
+		Germany smokes their Bregenwurst,\\%
+		In Norway they smoke salmon,\\%
+		In Brazil they smoke forests,\\%
+		The Netherlands smoke everything,\\%
+		So let's all roll a joint to that!\\%
+	}
+	\verse{%
+		Austria exports kangaroos,\\%
+		Swedes export IKEA,\\%
+		\sout{Ukraine exports Crimea},\\%
+		\textbf{and Russia propaganda},\\%
+		Germany exports refugees,\\%
+		All Finland does is send them back!\\%
+	}
+	\verse{%
+		Here we would've sung of the UK,\\%
+		But they went on and did a stupid thing they call "Brexit",\\%
+		All hope is lost for England,\\%
+		But Scots and Irish: welcome back!\\%
+	}
+}
+
 en_eurovision = Eurovision = To the tune of “Eurovision Theme” = {%
 	\verse{%
 		The French drink Champagne and Chardonnay,\\%
@@ -262,7 +300,7 @@ en_eurovision = Eurovision = To the tune of “Eurovision Theme” = {%
 		In Norway rotten raw fish,\\%
 		In Russia frozen Vodka,\\%
 		Thus if you're into cold food,\\%
-		Well Sitsit is the place to be!\\%
+		A Sittning is the place to be!\\%
 	}
 	\verse{%
 		Germany smokes their Bregenwurst,\\%
@@ -300,7 +338,7 @@ en_eurovision_lausanne = Eurovision = To the tune of “Eurovision Theme” = {%
 		In Norway rotten raw fish,\\%
 		In Russia frozen Vodka,\\%
 		Thus if you're into cold food,\\%
-		Well Sitsit is the place to be!\\%
+		A Sittning is the place to be!\\%
 	}
 	\verse{%
 		Germany smokes their Bregenwurst,\\%
@@ -365,34 +403,6 @@ en_twelvedays = Twelve Days of Binge-Drinking = To the tune of “Twelve Days of
 	}
 	\verse{%
 		My twelfth day of binge-drinking was a sight to see,\\%
-		With twelve shots of Absinthe,\\%
-	}
-}
-
-en_twelvedays_xmas = Twelve Days of Binge Drinking = To the tune of “Twelve Days of Christmas”, increasingly drunkenly = {%
-	\verse{%
-		My first day of Christmas started happily,\\%
-		With a large Long Island Ice Tea.\\%
-	}
-	\verse{%
-		My second day of Christmas started happily,\\%
-		With two Rum and Cokes,\\%
-		And a large Long Island Ice Tea.\\%
-	}
-	\verse{%
-		... Two Rum and Cokes,\\%
-		... Three G and Ts,\\%
-		... Four Jello shots,\\%
-		... Five pints of Beer,\\%
-		... Six Mai Tais,\\%
-		... Seven Gin Martinis,\\%
-		... Eight Bacardi Breezers,\\%
-		... Nine Black Russians,\\%
-		... Ten Raz’ Mojitos,\\%
-		... ‘Leven nips of Whiskey,\\%
-	}
-	\verse{%
-		My twelfth day of Christmas was a sight to see,\\%
 		With twelve shots of Absinthe,\\%
 	}
 }
@@ -920,6 +930,60 @@ en_engineersdrinkingsong = The Engineers' Drinking Song = To the tune of “The 
 		The root of -1 is i the speed of light is c.\\%
 		And I can rattle off these numbers 'til infinity,\\%
 		But the only thing that's constant is the work at MIT!\\%
+	}
+	\verse{%
+		We are, we are, we are, we are...\\%
+	}
+}
+
+en_engineersdrinkingsong_fhnw = The Engineers' Drinking Song = To the tune of “The Son of a Gambolier” = {%
+	\verse{%
+		We are, we are, we are, we are, we are the Engineers,\\%
+		We can, we can, we can, we can, demolish forty beers.\\%
+		Drink rum, drink rum, drink rum all day, and come along with us,\\%
+		'Cause we don't give a damn for any old man who don't give a damn for us!\\%
+	}
+	\verse{%
+		A lady and an Engineer were sitting in the park,\\%
+		The Engineer was working on some research after dark,\\%
+		His scientific method was a marvel to observe,\\%
+		While his right hand held the figures, his left hand traced the curves.\\%
+	}
+	\verse{%
+		We are, we are, we are, we are...\\%
+	}
+	\verse{%
+		A ETH lad in robes was clad and set to graduate.\\%
+		A pompous gleaming spectacle he was upon that date.\\%
+		But not a quarter hour after he got his degree,\\%
+		He was serving fries to engineers from Windisch's HT!\\%
+	}
+	\verse{%
+		We are, we are, we are, we are...\\%
+	}
+	\verse{%
+		A FHNW student once found the gates of Hell,\\%
+		He looked the devil in the eye, and said "You're looking well".\\%
+		The devil looked right back at him, and said "Why visit me -\\%
+		You've been through Hell already; you studied EIT!"\\%
+	}
+	\verse{%
+		We are, we are, we are, we are...\\%
+	}
+	\verse{%
+		Rapunzel let her hair down for two suitors down below,\\%
+		So one of them could grab a hold and give the old heave-ho.\\%
+		The prince began to climb at once, but soon came out the worst,\\%
+		For the Engineer rode up a lift, and reached Rapunzel first.\\%
+	}
+	\verse{%
+		We are, we are, we are, we are...\\%
+	}
+	\verse{%
+		3.141 is pi and 2.7's e.\\%
+		The root of -1 is i the speed of light is c.\\%
+		And I can rattle off these numbers 'til infinity,\\%
+		But the only thing that's constant is the work at HT!\\%
 	}
 	\verse{%
 		We are, we are, we are, we are...\\%
@@ -3823,19 +3887,19 @@ hu_yoszefvaros = Yoszefváros = ? = {%
 }
 
 sw_helangar = Helan Går = ? = {%
+%	\verse{%
+%		\colorbox{gray!30}{\sc Songmaster solo:}\\%
+%		En liten fågel satt en gång,\\%
+%		Och sjöng i furuskog.\\%
+%		:;: Han hade sjungit dagen lång,\\%
+%		Men dock ej sjungit nog! :;:\\%
+%	}
+%	\verse{%
+%		Vad sjöng den lilla fågeln då?\\%
+%		JO!\\%
+%	}
 	\verse{%
-		\colorbox{gray!30}{\sc Songmaster solo:}\\%
-		En liten fågel satt en gång,\\%
-		Och sjöng i furuskog.\\%
-		:;: Han hade sjungit dagen lång,\\%
-		Men dock ej sjungit nog! :;:\\%
-	}
-	\verse{%
-		Vad sjöng den lilla fågeln då?\\%
-		JO!\\%
-	}
-	\verse{%
-		\colorbox{gray!30}{\sc Everyone:}\\%
+%		\colorbox{gray!30}{\sc Everyone:}\\%
 		:;: Helan går,\\%
 		Sjung hopp-falderallan-lallan-lei! :;:\\%
 		Och den som inte helan tar,\\%
@@ -4182,7 +4246,7 @@ xx_internationalen = Internationalen = ? = {%
 		Mera jordar kring månen,\\%
 		Mera månar kring mars,\\%
 		Mera marscher till Skåne,\\%
-		Mera Skåne, bevars bevars bevars!\\%
+		Mera Skåne, gud, bevars bevars bevars!\\%
 	}
 	\verse{%
 		Lisää viinaa mun lasiin,\\%
@@ -4202,7 +4266,7 @@ xx_internationalen = Internationalen = ? = {%
 		Mehr Volk in den Wagen,\\%
 		mehr Wagen auf die Bahn,\\%
 		mehr Autobahnen für Europa.\\%
-		Gib Gas, gib Gas du Arsch.\\%
+		Gib Gas, gib Gas du Arsch!\\%
 	}
 	\verse{%
 		More booze in our glasses,\\%
@@ -4212,7 +4276,7 @@ xx_internationalen = Internationalen = ? = {%
 		More states in America,\\%
 		More Americans on this Earth,\\%
 		More Earth for us to pump oil from,\\%
-		Cheap gas is all we’re worth.\\%
+		Cheap gas is all we’re worth!\\%
 	}
 }
 
@@ -4225,7 +4289,7 @@ xx_internationalen_2 = Internationalen = ? = {%
 		Mera jordar kring månen,\\%
 		Mera månar kring mars,\\%
 		Mera marscher till Skåne,\\%
-		Mera Skåne, bevars bevars bevars! \\%
+		Mera Skåne, gud, bevars bevars bevars! \\%
 	}
 	\verse{%
 		Lisää viinaa mun lasiin,\\%
@@ -4370,66 +4434,111 @@ xx_letitgo = Let it go = ? = {%
 sw_staffanvisan = Staffanvisan = ? = {%
 	\verse{%
 		Staffan var en stalledräng,\\%
-		men inte någon stjärna.\\%
+		Men inte någon stjärna.\\%
 		Han gilla' inte att gå hem,\\%
-		dit gick han inte gärna.\\%
+		Dit gick han inte gärna.\\%
 		Ingen dager synes än,\\%
-		därför stannar jag till fem, sa Staffan!\\%
+		Därför stannar jag till fem, sa Staffan!\\%
 	}
 }
 
 en_staffanvisan = Staffan's song = To the tune of “Staffanvisan” = {%
 	\verse{%
 		Staffan was a stableboy,\\%
-		but not a very good one.\\%
+		But not a very good one.\\%
 		He did not like to go home,\\%
-		he did not like to go there.\\%
+		He did not like to go there.\\%
 		No dawn is yet seen\\%
-		so I will stay until five, said Staffan!\\%
+		So I will stay until five, said Staffan!\\%
 	}
 }
 
 xx_staffanvisan = Staffan's song = To the tune of “Staffanvisan” = {%
 	\verse{%
 		Staffan var en stalledräng,\\%
-		men inte någon stjärna.\\%
+		Men inte någon stjärna.\\%
 		Han gilla' inte att gå hem,\\%
-		dit gick han inte gärna.\\%
+		Dit gick han inte gärna.\\%
 		Ingen dager synes än,\\%
-		därför stannar jag till fem, sa Staffan!\\%
+		Därför stannar jag till fem, sa Staffan!\\%
 	}
 	\verse{%
 		Staffan was a stableboy,\\%
-		but not a very good one.\\%
+		But not a very good one.\\%
 		He did not like to go home,\\%
-		he did not like to go there.\\%
+		He did not like to go there.\\%
 		No dawn is yet seen\\%
-		so I will stay until five, said Staffan!\\%
+		So I will stay until five, said Staffan!\\%
 	}
 }
 
 en_procrastinate = Procrastinate = To the tune of “O crhistmas tree” = {%
 	\verse{%
 		Procrastinate,\\%
-		can’t concetrate,\\%
+		Can’t concetrate,\\%
 		I’d rather date or celebrate.\\%
 	}
 	\verse{%
 		Procrastinate,\\%
-		can’t concentrate,\\%
+		Can’t concentrate,\\%
 		I’d rather date or celebrate.\\%
 	}
 	\verse{%
 		Just one more Netflix episode,\\%
-		who cares about the study load.\\%
+		Who cares about the study load.\\%
 	}
 	\verse{%
 		Procrastinate,\\%
-		can’t concentrate,\\%
-		oh, will I ever graduate.\\%
+		Can’t concentrate,\\%
+		Oh, will I ever graduate.\\%
 	}
 }
 
+sw_masen = Måsen = To the tune of “När månen vandrar” = {%
+	\verse{%
+		Det satt en mås på en klyvarbom\\%
+		Och tom i krävan var kräket.\\%
+		Tungan lådde vid skepparns gom,\\%
+		Där han satt uti bleket.\\%
+		Jag vill ha sill hördes måsen rope\\%
+		Och skepparn svarte: Jag vill ha O P\\%
+		Om blott jag får, om blott jag får.\\%
+	}
+}
 
+sw_jasen = JAS:en = To the tune of “När månen vandrar” = {%
+	\verse{%
+		Där flög en JAS över Västerbron\\%
+		Men styrsystemet var trasigt\\%
+		Piloten ut sköt sig med kanon\\%
+		För planet vingla så knasigt\\%
+		"Jag vill ju uppåt, jag vill ju mer"\\%
+		Men planet svarte: "Jag ville ner\\%
+		Mot alla hjon, på Västerbron"\\%
+	}
+}
 
+en_clapyourhands = Clap Your Hands = ? = {%
+	\verse{%
+		:;: If you are in Business class, clap your hands :;:\\%
+		If you are in Business class, loads of money up your ass,\\% 
+		If you are in Business class, clap your hands.\\%
+	}
+	\verse{%
+		If you are in Eco class / can't even afford the gas\\%
+		If you've never took a plane / and you'd rather take a train\\%
+		If the babies are the worst / out the window they all must\\%
+		If you want more alcohol / and you've given up control\\%
+		If you know the Mile High Club / and you wanna take a stab\\%
+		If that's the flight of your life / and you'll cry when we arrive\\%
+		If you've ever puked mid-flight / on the person to your right\\%
+		If you're part of cabin crew / we all need a drop or two\\%
+	}
+	\verse{%
+		:;: If you are the loudest class, raise your voice\\%
+		(THAT'S US!) :;:\\%
+		If you are the loudest class, then we gotta fill your glass\\% 
+		If you are the loudest class, raise your voice (THAT'S US!)\\%
+	}
+}
 
