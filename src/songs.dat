@@ -1,3 +1,111 @@
+
+en_writeinc = Write in C = To the tune of “Let It Be” = {%
+	\verse{%
+		When I find my code in tons of trouble\\%
+		Friends and colleagues come to me\\%
+		Speaking words of wisdom:\\%
+		Write in C\\%
+	}
+	\verse{%
+		As the deadline fast approaches\\%
+		And bugs are all I can see\\%
+		Somewhere someone whispers:\\%
+	}
+	\verse{%
+		Write in C ... \textbf{\textit{(4x)}}\\%
+	}
+	\verse{%
+		LISP is dead and buried\\%
+		Write in C\\%
+	}
+	\verse{%
+		I used to write a lot of Matlab\\%
+		For science it worked flawlessly\\%
+		Try using it for graphics\\%
+		Write in C\\%
+	}
+	\verse{%
+		If you just spent nearly 30 hours\\%
+		Debugging some assembly\\%
+		Soon you'll be glad to\\%
+		Write in C\\%
+	}
+	\verse{%
+		Write in C ... \textbf{\textit{(4x)}}\\%
+	}
+	\verse{%
+		Only wimps use Python\\%
+		Write in C\\%
+	}
+	\verse{%
+		Write in C ... \textbf{\textit{(4x)}}\\%
+	}
+	\verse{%
+		Scala won't quite cut it
+		Write in C
+	}
+	\verse{%
+		Write in C ... \textbf{\textit{(4x)}}\\%
+	}
+	\verse{%
+		Don't even mention Java\\%
+		Write in C\\%
+	}
+}
+
+en_piratebay = The Pirate Bay = To the tune of “The Wellerman” = {%
+	\verse{%
+		\colorbox{gray!30}{\sc Songmaster Solo (All Verses)}\\%
+		There once was honor in for honest fellows\\%
+		But they made it hard to enjoy our shows\\%
+		So I stood and declared: Yo-ho-ho\\%
+		A pirate's life for me!” (huh!)\\%
+	}
+	\verse{%
+		\colorbox{gray!30}{\sc Everyone}\\%
+		Soon may The Pirate Bay come\\%
+		To bring us trackers and seeds and ROMs\\%
+		One day, when the leeching is done\\%
+		We'll take our files and go\\%
+	}
+	\verse{%
+		Some firms online did rally the crowds\\%
+		And allthough we paid, they were ripe with ads\\%
+		But among us were no cowardly lad\\%
+		And thus our sails were raised (huh!)\\%
+	}
+	\verse{%
+		\textbf{\textit{(All:)}}Soon may The Pirate Bay come ...\\%
+	}
+	\verse{%
+		No filthy leech shall travel my stream\\%
+		As pirates we're but a single team\\%
+		You shall seed no less than what you glean\\%
+		And that's how torrents flow (huh!)\\%
+	}
+	\verse{%
+		\textbf{\textit{(All:)}}Soon may The Pirate Bay come ...\\%
+	}
+	\verse{%
+		As the lov eof games across the world spread\\%
+		Achangel Gabriel offerd a shed\\%
+		There we moored out ships and full Steam ahead\\%
+		We shop there to this day (huh!)\\%
+	}
+	\verse{%
+		\textbf{\textit{(All:)}}Soon may The Pirate Bay come ...\\%
+	}
+	\verse{%
+		If with companies' greed you do compare\\%
+		We ain't the cheekiest rascals out there\\%
+		We just wont't pay for cheap shovelware\\%
+		And neither should all of thee (huh!)\\%
+	}
+	\verse{%
+		\textbf{\textit{(All:)}}Soon may The Pirate Bay come ...\\%
+	}
+}
+
 de_einprosit = Ein Prosit = ? = {%
 	\verse{%
 		:;: Ein Prosit, ein Prosit, \\%
