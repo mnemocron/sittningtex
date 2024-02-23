@@ -12,3 +12,7 @@ The original repo has not had pushes in a long time and this fork is just for me
 
 ## Packages needed
 SitsiTeX relies on a specific package, [`songs.sty`](http://songs.sourceforge.net/), for most of the formatting. Please use the installed version.
+
+## Printing
+
+![Adobe-Print](https://github.com/mnemocron/sittningtex/assets/13417604/d597d7a2-aaff-42c5-b96d-67479585cee4)
