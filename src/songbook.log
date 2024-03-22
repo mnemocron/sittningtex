@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.2.16)  2 APR 2023 14:09
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.2.16)  25 JAN 2024 17:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1411,61 +1411,61 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 \tf@toc=\write5
 \openout5 = `songbook.toc'.
 
-<images/memes/jasen.png, id=65, 296.60812pt x 220.32312pt>
-File: images/memes/jasen.png Graphic file (type png)
-<use images/memes/jasen.png>
-Package pdftex.def Info: images/memes/jasen.png  used on input line 47.
-(pdftex.def)             Requested size: 203.83417pt x 151.41461pt.
+<images/memes/apvsg69.png, id=62, 679.03688pt x 706.13812pt>
+File: images/memes/apvsg69.png Graphic file (type png)
+<use images/memes/apvsg69.png>
+Package pdftex.def Info: images/memes/apvsg69.png  used on input line 47.
+(pdftex.def)             Requested size: 203.83417pt x 211.9616pt.
  [2
 
 {C:/Users/simon/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./images/mem
-es/jasen.png>]
-<images/memes/jar-ar-svensk.jpg, id=74, 542.025pt x 304.13625pt>
-File: images/memes/jar-ar-svensk.jpg Graphic file (type jpg)
-<use images/memes/jar-ar-svensk.jpg>
-Package pdftex.def Info: images/memes/jar-ar-svensk.jpg  used on input line 61.
-
-(pdftex.def)             Requested size: 203.83417pt x 114.37102pt.
- [3 <./images/memes/jar-ar-svensk.jpg>] [4]
-[5]
+es/apvsg69.png>]
+<images/memes/jasen.png, id=71, 296.60812pt x 220.32312pt>
+File: images/memes/jasen.png Graphic file (type png)
+<use images/memes/jasen.png>
+Package pdftex.def Info: images/memes/jasen.png  used on input line 61.
+(pdftex.def)             Requested size: 203.83417pt x 151.41461pt.
+ [3 <./images/memes/jasen.png>]
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/lmr/m/sc/10'.
 (microtype)             Ignoring protrusion settings for this character.
- [6] [7]
-<images/memes/romands.png, id=97, 344.03531pt x 326.72063pt>
-File: images/memes/romands.png Graphic file (type png)
-<use images/memes/romands.png>
-Package pdftex.def Info: images/memes/romands.png  used on input line 103.
-(pdftex.def)             Requested size: 203.83417pt x 193.5761pt.
-LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 108.
- [8 <./images/memes/romands.png>] [9] [10] [11] [12] [13]
+ [4] [5]
 LaTeX Font Info:    Font shape `T1/lmss/bx/it' in size <10> not available
-(Font)              Font shape `T1/lmss/bx/sl' tried instead on input line 146.
+(Font)              Font shape `T1/lmss/bx/sl' tried instead on input line 86.
 
- [14]
-[15]
-<images/memes/retard.png, id=126, 493.0922pt x 799.48688pt>
-File: images/memes/retard.png Graphic file (type png)
-<use images/memes/retard.png>
-Package pdftex.def Info: images/memes/retard.png  used on input line 157.
-(pdftex.def)             Requested size: 226.48395pt x 367.21947pt.
-<images/base/repo-qr.png, id=127, 291.0875pt x 291.0875pt>
+[6] [7] [8] [9]
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 109.
+ [10] [11] [12] [13] [14]
+<images/memes/huere.jpg, id=119, 481.8pt x 235.63031pt>
+File: images/memes/huere.jpg Graphic file (type jpg)
+<use images/memes/huere.jpg>
+Package pdftex.def Info: images/memes/huere.jpg  used on input line 157.
+(pdftex.def)             Requested size: 203.83417pt x 99.68672pt.
+ [15
+
+ <./images/memes/huere.jpg>]
+<images/memes/bender.jpg, id=123, 642.14906pt x 1075.76906pt>
+File: images/memes/bender.jpg Graphic file (type jpg)
+<use images/memes/bender.jpg>
+Package pdftex.def Info: images/memes/bender.jpg  used on input line 164.
+(pdftex.def)             Requested size: 226.48395pt x 379.41383pt.
+<images/base/repo-qr.png, id=124, 291.0875pt x 291.0875pt>
 File: images/base/repo-qr.png Graphic file (type png)
 <use images/base/repo-qr.png>
-Package pdftex.def Info: images/base/repo-qr.png  used on input line 160.
+Package pdftex.def Info: images/base/repo-qr.png  used on input line 167.
 (pdftex.def)             Requested size: 45.2961pt x 45.29575pt.
 
-Overfull \vbox (12.89578pt too high) detected at line 160
+Overfull \vbox (12.89578pt too high) detected at line 167
  []
 
 LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 1
-60.
+67.
 (C:\Users\simon\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmr.fd
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 1
-60.
+67.
 
 (C:\Users\simon\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmtt.fd
 File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
@@ -1474,35 +1474,33 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `lmtt' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
- [1
-
- <./images/memes/retard.png> <./images/base/repo-qr.png>] (songbook.aux) ) 
+ [1 <./images/memes/bender.jpg> <./images/base/repo-qr.png>] (songbook.aux) ) 
 Here is how much of TeX's memory you used:
- 30136 strings out of 476374
- 625898 string characters out of 5788854
- 1868340 words of memory out of 5000000
+ 30132 strings out of 476374
+ 625708 string characters out of 5788854
+ 1867340 words of memory out of 5000000
  49762 multiletter control sequences out of 15000+600000
- 609756 words of font info for 161 fonts, out of 8000000 for 9000
+ 609554 words of font info for 159 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,12n,102p,1013b,758s stack positions out of 10000i,1000n,20000p,200000b,200000s
-{C:/U
-sers/simon/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}{C:/Users
-/simon/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}<C:/Users/si
-mon/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10.pfb><C:/Users/si
-mon/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/si
-mon/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbxi10.pfb><C:/Users/s
-imon/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb><C:/Users/
-simon/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/s
-imon/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmro8.pfb><C:/Users/si
-mon/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss10.pfb><C:/Users/si
-mon/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbo10.pfb><C:/Users/
-simon/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb><C:/User
-s/simon/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsso10.pfb><C:/Use
-rs/simon/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsso12.pfb><C:/Us
-ers/simon/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt10.pfb>
-Output written on songbook.pdf (16 pages, 1621338 bytes).
+ 99i,12n,102p,1013b,751s stack positions out of 10000i,1000n,20000p,200000b,200000s
+{C
+:/Users/simon/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}{C:/Us
+ers/simon/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}<C:/Users
+/simon/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10.pfb><C:/Users
+/simon/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users
+/simon/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbxi10.pfb><C:/User
+s/simon/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb><C:/Use
+rs/simon/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/User
+s/simon/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmro8.pfb><C:/Users
+/simon/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss10.pfb><C:/Users
+/simon/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbo10.pfb><C:/Use
+rs/simon/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb><C:/U
+sers/simon/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsso10.pfb><C:/
+Users/simon/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsso12.pfb><C:
+/Users/simon/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt10.pfb>
+Output written on songbook.pdf (16 pages, 2416306 bytes).
 PDF statistics:
- 188 PDF objects out of 1000 (max. 8388607)
+ 184 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  58043 words of extra memory for PDF output out of 61914 (max. 10000000)
 

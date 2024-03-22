@@ -12,7 +12,10 @@ en_writeinc = Write in C = To the tune of “Let It Be” = {%
 		Somewhere someone whispers:\\%
 	}
 	\verse{%
-		Write in C ... \textbf{\textit{(4x)}}\\%
+		Write in C ...\\%
+		Write in C ...\\%
+		Write in C ...\\%
+		Write in C ...\\%
 	}
 	\verse{%
 		LISP is dead and buried\\%
@@ -75,7 +78,7 @@ en_piratebay = The Pirate Bay = To the tune of “The Wellerman” = {%
 		And thus our sails were raised (huh!)\\%
 	}
 	\verse{%
-		\textbf{\textit{(All:)}}Soon may The Pirate Bay come ...\\%
+		\textbf{\textit{(All:)}} Soon may The Pirate Bay come ...\\%
 	}
 	\verse{%
 		No filthy leech shall travel my stream\\%
@@ -84,7 +87,7 @@ en_piratebay = The Pirate Bay = To the tune of “The Wellerman” = {%
 		And that's how torrents flow (huh!)\\%
 	}
 	\verse{%
-		\textbf{\textit{(All:)}}Soon may The Pirate Bay come ...\\%
+		\textbf{\textit{(All:)}} Soon may The Pirate Bay come ...\\%
 	}
 	\verse{%
 		As the lov eof games across the world spread\\%
@@ -93,7 +96,7 @@ en_piratebay = The Pirate Bay = To the tune of “The Wellerman” = {%
 		We shop there to this day (huh!)\\%
 	}
 	\verse{%
-		\textbf{\textit{(All:)}}Soon may The Pirate Bay come ...\\%
+		\textbf{\textit{(All:)}} Soon may The Pirate Bay come ...\\%
 	}
 	\verse{%
 		If with companies' greed you do compare\\%
@@ -102,7 +105,7 @@ en_piratebay = The Pirate Bay = To the tune of “The Wellerman” = {%
 		And neither should all of thee (huh!)\\%
 	}
 	\verse{%
-		\textbf{\textit{(All:)}}Soon may The Pirate Bay come ...\\%
+		\textbf{\textit{(All:)}} Soon may The Pirate Bay come ...\\%
 	}
 }
 
@@ -945,6 +948,43 @@ en_engineersdrinkingsong = The Engineers' Drinking Song = To the tune of “The 
 		He looked the devil in the eye, and said "You're looking well".\\%
 		The devil looked right back at him, and said "Why visit me -\\%
 		You've been through Hell already; you went to MIT!"\\%
+	}
+	\verse{%
+		We are, we are, we are, we are...\\%
+	}
+	\verse{%
+		Rapunzel let her hair down for two suitors down below,\\%
+		So one of them could grab a hold and give the old heave-ho.\\%
+		The prince began to climb at once, but soon came out the worst,\\%
+		For the Engineer rode up a lift, and reached Rapunzel first.\\%
+	}
+	\verse{%
+		We are, we are, we are, we are...\\%
+	}
+	\verse{%
+		3.141 is pi and 2.7's e.\\%
+		The root of -1 is i the speed of light is c.\\%
+		And I can rattle off these numbers 'til infinity,\\%
+		But the only thing that's constant is the work at MIT!\\%
+	}
+	\verse{%
+		We are, we are, we are, we are...\\%
+	}
+}
+
+
+en_engineersdrinkingsong_short = The Engineers' Drinking Song = To the tune of “The Son of a Gambolier” = {%
+	\verse{%
+		We are, we are, we are, we are, we are the Engineers,\\%
+		We can, we can, we can, we can, demolish forty beers.\\%
+		Drink rum, drink rum, drink rum all day, and come along with us,\\%
+		'Cause we don't give a damn for any old man who don't give a damn for us!\\%
+	}
+	\verse{%
+		A maiden and an Engineer were sitting in the park,\\%
+		The Engineer was working on some research after dark,\\%
+		His scientific method was a marvel to observe,\\%
+		While his right hand held the figures, his left hand traced the curves.\\%
 	}
 	\verse{%
 		We are, we are, we are, we are...\\%
