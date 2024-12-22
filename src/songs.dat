@@ -276,6 +276,33 @@ en_wasted_long = Wasted = To the tune of “Star Wars Theme” = {%
 	}
 }
 
+en_yesterday = Yesterday = To the tune of “Yesterday” = {%
+	\verse{%
+		Yesterday,\\%
+		all those backups seemed a waste of pay.\\%
+		Now my database has gone away.\\%
+		Oh I believe in yesterday.\\%
+	}
+	\verse{%
+		Suddenly,\\%
+		There’s not half the files there used to be,\\%
+		and there’s a milestone hanging over me.\\%
+		The system crashed so suddenly.\\%
+	}
+	\verse{%
+		I pushed something wrong,\\%
+		what it was I could not say.\\%
+		All my data’s gone,\\%
+		and I long for yesterday-ay-ay-ay.\\%
+	}
+	\verse{%
+		Yesterday,\\%
+		The need for back-ups seemed so far away.\\%
+		I knew my data was all here to stay,\\%
+		now I believe in yesterday.\\%
+	}
+}
+
 en_syphilis = Syphilis = To the tune of “Yesterday” = {%
 	\verse{%
 		Syphilis, it just started with a simple kiss.\\%
@@ -1386,7 +1413,7 @@ en_yakkosworld = The Nations of the World = ? = {%
 	}
 }
 
-en_mybonnie = My Bonnie = ? = {%
+en_mybonnie = My Bonnie = (stand up / sit down on every “B”) = {%
 	\verse{%
 		My Bonnie is over the ocean,\\%
 		My Bonnie is over the sea,\\%
@@ -1713,7 +1740,7 @@ en_getlucky_long = Get Lucky = ? = {%
 	}
 }
 
-en_internetisforporn = The Internet = ? = {%
+en_internetisforporn = The Internet = (from the ) = {%
 	\verse{%
 		\textbf{\textit{(Solo:)}} The Internet is really really great.\\%
 		\textbf{\textit{(All:)}} For porn!\\%
@@ -1949,48 +1976,6 @@ en_lakegeneva = Lake Geneva = To the tune of "Take Me Home, Country Roads" = {%
 		Pelican Beach, PGs near the water.\\%
 		Life is good there, lying with my beer,\\%
 		Brighter when together, that's why we're all here.\\%
-	}
-	\verse{%
-		Country roads, take me home,\\%
-		To the place I belong.\\%
-		Lake Geneva, student drama,\\%
-		Take me home, country roads.\\%
-	}
-	\verse{%
-		And just over the blue water,\\%
-		Science campus, Rolex Learning Center.\\%
-		Witty students, writing their theses,\\%
-		Buildings beyond reason, many more than trees.\\%
-	}
-	\verse{%
-		Country roads...\\%
-	}
-	\verse{%
-		While besides it, close to nature,\\%
-		Hippie students, sheep despite the weather.\\%
-		Climate marches, vegetable diets,\\%
-		Banana libraries, Nobel laureates.\\%
-	}
-	\verse{%
-		Country roads...\\%
-	}
-	\verse{%
-		All my memories gather 'round it,\\%
-		Lakeside parties, Titanic Lémanique.\\%
-		Sailing under the Sun or the snow,\\%
-		Whatever the weather, I shall always go.\\%
-	}
-	\verse{%
-		Country roads...\\%
-	}
-}
-
-en_lakegeneva_long = Lake Geneva = To the tune of "Take Me Home, Country Roads" = {%
-	\verse{%
-		Almost Heaven, Lake Geneva,\\%
-		Pelican Beach, PGs near the water.\\%
-		Life is slow there, slower than ????,\\%
-		Faster than our buses, pricier than ????.\\%
 	}
 	\verse{%
 		Country roads, take me home,\\%
@@ -3274,6 +3259,96 @@ fr_couscous = Fais-moi du couscous chéri = ? = {%
 	}
 }
 
+sw_hoppe_hare = Hoppe Hare = To the tune of “Hoppe Hare” = {%
+	\verse{%
+		Hoppe Hoppe Hare,\\%
+		satt och mumsa’ bär.\\%
+		Klappa’ sig på magen:\\%
+		“Det var gott det här!”\\%
+	}
+	\verse{%
+		Fram smyger räven\\%
+		tänker Hoppe ta.\\%
+		Men Hoppe Hoppe Hare\\%
+		hoppar ju så bra.\\%
+	}
+	\verse{%
+		Hoppe Hoppe Hare\\%
+		hoppar mot en sten\\%
+		stuka’ lilla tassen,\\%
+		bröt sitt långa ben.\\%
+	}
+	\verse{%
+		Fram smyger räven,\\%
+		knäcker Hoppes hals!\\%
+		Hoppe Hoppe Hare\\%
+		hoppar inte alls.\\%
+	}
+}
+
+sw_min_pilsner = Min Pilsner = To the tune of “My Bonnie” = {%
+	\verse{%
+		Min pilsner skall svalka min tunga,\\%
+		min pilsner skall duscha min gom.\\%
+		Min pilsner skall få mig att sjunga,\\%
+		och ser jag att flaskan är tom.\\%
+	}
+	\verse{%
+		Pilsner! Pilsner!\\%
+		Hämta en pilsner till mig, till mig.\\%
+		Pilsner! Pilsner!\\%
+		Hämta en pilsner till mig!\\%
+	}
+}
+
+sw_rod_vitamin = Röd Vitamin = To the tune of “My Bonnie” = {%
+	\verse{%
+		Hur badar man bäst på en kurort?\\%
+		Jo, om man har fyllt en bassäng\\%
+		med vätskan som snart skall besjungas\\%
+		när vi kommit fram till refräng.\\%
+	}
+	\verse{%
+		Rödvin, rödvin\\%
+		rödvin är fin hälsokost, kost, kost.\\%
+		Rödvin, rödvin,\\%
+		rödvin vår bästa flaskpost.\\%
+	}
+	\verse{%
+		Man får vitaminer från rödvin,\\%
+		man piggnar ju till på en gång.\\%
+		När glaset har tömts uti botten\\%
+		så stämmer vi upp till en sång.\\%
+	}
+}
+
+sw_pripps = Pripps = To the tune of “O Tannenbaum” = {%
+	\verse{%
+		En Pripps klass I, en Pripps klass I,\\%
+		den blir man inte full på lätt,\\%
+		och blir man full på Pripps klass I\\%
+		då är det fel på något sätt.\\%
+		En Pripps klass I, en Pripps klass I,\\%
+		den blir man inte full på lätt.\\%
+	}
+	\verse{%
+		En raggarblå, en raggarblå,\\%
+		den kan man alltid lita på,\\%
+		och blir man inte full på två,\\%
+		så får man dricka fler ändå,\\%
+		En raggarblå, en raggarblå,\\%
+		den kan man alltid lita på.\\%
+	}
+	\verse{%
+		En Pripps klass III, en Pripps klass III,\\%
+		då går det mycket snabbare,\\%
+		och blir man inte full på de’\\%
+		då kan man dricka renat me’\\%
+		En Pripps klass III, en Pripps klass III,\\%
+		då går det mycket snabbare.\\%
+	}
+}
+
 sw_helangar = Helan Går = ? = {%
 	\verse{%
 		:;: Helan går,\\%
@@ -3516,6 +3591,16 @@ xx_internationalen = Internationalen = ? = {%
 		Gib Gas, gib Gas du Arsch!\\%
 	}
 	\verse{%
+		Più grappa nei calici\\%
+		Più calici dal bar\\%
+		Più bar pagando pizzo\\%
+		Più pizza con ananas\\%
+		Più ananas per migranti\\%
+		Più migranti sulla costa\\%
+		Più Costa per Concordia\\%
+		Vada a bordo, CAZZO!\\%
+	}
+	\verse{%
 		More booze in our glasses,\\%
 		More glasses on the bar,\\%
 		More bars for this small town of ours,\\%
@@ -3557,6 +3642,16 @@ xx_internationalen_2 = Internationalen = ? = {%
 		Mehr Wagen auf die Bahn,\\%
 		Mehr Autobahnen für Europa,\\%
 		Gib Gas, gib Gas du Arsch!\\%
+	}
+	\verse{%
+		Più grappa nei calici\\%
+		Più calici dal bar\\%
+		Più bar pagando pizzo\\%
+		Più pizza con ananas\\%
+		Più ananas per migranti\\%
+		Più migranti sulla costa\\%
+		Più Costa per Concordia\\%
+		Vada a bordo, CAZZO!\\%
 	}
 	\verse{%
 		More booze in our glasses,\\%
@@ -3601,6 +3696,16 @@ xx_internationalen_clean = Internationalen = ? = {%
 		Mehr Wagen auf die Bahn,\\%
 		Mehr Autobahnen für Europa,\\%
 		Gib Gas, gib Gas du Arsch!\\%
+	}
+	\verse{%
+		Più grappa nei calici\\%
+		Più calici dal bar\\%
+		Più bar pagando pizzo\\%
+		Più pizza con ananas\\%
+		Più ananas per migranti\\%
+		Più migranti sulla costa\\%
+		Più Costa per Concordia\\%
+		Vada a bordo, CAZZO!\\%
 	}
 	\verse{%
 		Plus de vin dans nos verres,\\%
@@ -3707,26 +3812,7 @@ sw_staffanvisan = Staffanvisan = ? = {%
 en_staffanvisan = Staffan's song = To the tune of “Staffanvisan” = {%
 	\verse{%
 		Staffan was a stableboy,\\%
-		But not a very good one.\\%
-		He did not like to go home,\\%
-		He did not like to go there.\\%
-		No dawn is yet seen\\%
-		So I will stay until five, said Staffan!\\%
-	}
-}
-
-xx_staffanvisan = Staffan's song = To the tune of “Staffanvisan” = {%
-	\verse{%
-		Staffan var en stalledräng,\\%
-		Men inte någon stjärna.\\%
-		Han gilla' inte att gå hem,\\%
-		Dit gick han inte gärna.\\%
-		Ingen dager synes än,\\%
-		Därför stannar jag till fem, sa Staffan!\\%
-	}
-	\verse{%
-		Staffan was a stableboy,\\%
-		But not a very good one.\\%
+		But nowhere any stars.\\%
 		He did not like to go home,\\%
 		He did not like to go there.\\%
 		No dawn is yet seen\\%
