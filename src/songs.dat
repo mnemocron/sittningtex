@@ -90,7 +90,7 @@ en_piratebay = The Pirate Bay = To the tune of “The Wellerman” = {%
 		\textbf{\textit{(All:)}} Soon may The Pirate Bay come ...\\%
 	}
 	\verse{%
-		As the lov eof games across the world spread\\%
+		As the love of games across the world spread\\%
 		Achangel Gabriel offerd a shed\\%
 		There we moored out ships and full Steam ahead\\%
 		We shop there to this day (huh!)\\%
@@ -116,6 +116,21 @@ de_einprosit = Ein Prosit = ? = {%
 	}
 	\verse{%
 		Eins! Zwei! Drei! G'SUFFA!\\%
+	}
+}
+
+de_uberstock = Über Stock, über Stein = To the tune of “The army goes rolling along” = {%
+	\verse{%
+		Über Stock, über Stein, mit Migrän' gebrochnen Bein\\%
+		Hört man uns marschieren heran\\%
+		Auf und ab, kreuz und quer, sogar mit und ohne Bier\\%
+		stampfen wir dennoch voran\\%
+	}
+	\verse{%
+		Mit Bang und Bong, spielen wir Nächte lang\\%
+		Juhu!  Gib gas, macht weiter, halt im Gang\\%
+		Und wohin wir gehen fallen auch mal Tränen\\%
+		wenn wir danken dem Publikum mit G'sang\\%
 	}
 }
 
@@ -2257,6 +2272,19 @@ fi_nyt = A Finnish Drinking Song = ? = {%
 	}
 }
 
+fi_nyt_long = A Finnish Drinking Song (long version) = ? = {%
+	\verse{%
+		Nyt!\\%
+	}
+}
+
+fi_nyt_short = A Finnish Drinking Song (long version) = ? = {%
+	\verse{%
+		i!\\%
+	}
+}
+
+
 fi_trink = Jos eukkosi kieltää sua juomasta = ? = {%
 	\verse{%
 		Jos eukkosi kieltää sua juomasta,\\%
@@ -3322,6 +3350,21 @@ sw_rod_vitamin = Röd Vitamin = To the tune of “My Bonnie” = {%
 	}
 }
 
+sw_overstock = Över stock, över sten = To the tune of “The army goes rolling along” = {%
+	\verse{%
+		Över stock, över sten, med migrän och brutna ben,\\%
+		Hördes blåset marscherande gå.\\%
+		Upp och ner, kors och tvärs, även om vi saknar bärs,\\%
+		Nog så travar vi framåt ändå.\\%
+	}
+	\verse{%
+		Med bang och bång när vi spelar natten lång.\\%
+		Tjoho! Kör så det ryker, håll igång!\\%
+		Och var än vi går, så fälls en liten tår,\\%
+		när vi tackar publiken med sång.\\%
+	}
+}
+
 sw_pripps = Pripps = To the tune of “O Tannenbaum” = {%
 	\verse{%
 		En Pripps klass I, en Pripps klass I,\\%
@@ -3854,6 +3897,13 @@ sw_masen = Måsen = To the tune of “När månen vandrar” = {%
 	}
 }
 
+sw_masen_short = Den vingklippta måsen = To the tune of “När månen vandrar” = {%
+	\verse{%
+		Det satt en mås på en klyvarbom...\\%
+		JAG VILL HA OP!\\%
+	}
+}
+
 sw_jasen = JAS:en = To the tune of “När månen vandrar” = {%
 	\verse{%
 		Där flög en JAS över Västerbron\\%
@@ -3863,6 +3913,135 @@ sw_jasen = JAS:en = To the tune of “När månen vandrar” = {%
 		"Jag vill ju uppåt, jag vill ju mer"\\%
 		Men planet svarte: "Jag ville ner\\%
 		Mot alla hjon, på Västerbron"\\%
+	}
+}
+
+sw_boten = Boten = To the tune of “När månen vandrar” = {%
+	\verse{%
+		Min kompis Anna, hon är en bot\\%
+		Hon rensar upp i kanalen,\\%
+		och varje gång jag hör hennes låt,\\%
+		så får jag ont i analen.\\%
+		Jag är så trött på den jävla låten.\\%
+		Kan någon vänlig själ banna boten?\\%
+		Jag vete fan, Jag fick en ban\\%
+	}
+}
+
+sw_gasen = Gåsen = To the tune of “När månen vandrar” = {%
+	\verse{%
+		Det satt en mås på en klyvarbom,\\%
+		förklädd i måsjaktens månad.\\%
+		Den hade fjädrar från tå till horn, \\%
+		och älgen blev rätt förvånad.\\%
+		”Jag är en gås goa älgen”\\%
+		ljög den förklädda måsen och sedan flög den.\\%
+		”Jag är en gås, det är så jag mås.”\\%
+	}
+}
+
+sw_musen = Musen = To the tune of “När månen vandrar” = {%
+	\verse{%
+		Det satt en mus i en hushållsost \\%
+		och åt och åt utan måtta\\%
+		tills osten blev till en mushåls-ost \\%
+		och han en klotformad råtta.\\%
+		"Så bra", sa musen "att va en fettboll\\%
+		 nu kan jag rulla med hast åt rätt håll,\\%
+		Ostindien, Ostindien\\%
+	}
+}
+
+sw_hornet = Hornet = To the tune of “När månen vandrar” = {%
+	\verse{%
+		Det satt ett horn i basunsektion \\%
+		och spela bara i baktakt,\\%
+		å tonen nådde till saxofon \\%
+		dom låter ofta som djurslakt.\\%
+		Jag vill ju höras, jag vill ju låta \\%
+		snälla ni kan ni mig förlåta?\\%
+		Jag låter lätt, som klarinett.\\%
+	}
+}
+
+sw_kompisvisa = En Kompisvisa = To the tune of “O Tannenbaum” = {%
+	\verse{%
+		En kompvisa, en kompvisa,\\%
+		Det är en låt med många verser, jättemånga verser.\\%
+		Och har den inte så många verser,\\%
+		riktigt skitlång alltså\\%
+		Så måste den ha fel antal stavelser,\\%
+		och jättesvår att sjunga\\%
+		En kompvisa, en kompvisa,\\%
+		det är en låt som inte pöbeln tycker är kul. Kompvisa. Ku-hu-ken.\\%
+	}
+	\verse{%
+		En komparkuk, en komparkuk,\\%
+		är kort och tjock och ganska mjuk,\\%
+		ganska mjuk.\\%
+		Och är den inte ganska mjuk, ganska mjuk, så är det ingen komparkuk, alltid mjuk.\\%
+		En komparkuk, en komparkuk,\\%
+		är kort och tjock och ganska mjuk.\\%
+	}
+	\verse{%
+		En kompfitta, en kompfitta,\\%
+		är formad som ett melitta, melitta [me'litta'].\\%
+		Och är den ej som melitta, melitta,\\%
+		så är det ingen kompfitta, kaffefilter.\\%
+		En kompfitta, en kompfitta,\\%
+		är formad som ett melitta.\\%
+	}
+	\verse{%
+		En komparfis, en komparfis,\\%
+		sprider lätt ett slemmigt dis, komparfis.\\%
+		Och är det ej ett slemmigt dis, komparfis, \\%
+		så är det ingen komparfis, ingen kris.\\%
+		En komparfis, en komparfis,\\%
+		sprider lätt ett slemmigt dis, komparfis.\\%
+	}
+	\verse{%
+		En kossamu, en kossamu,\\%
+		hon har så vackert juver, kossamu.\\%
+		Och har hon inget ju-uver, kossamu,\\%
+		så är hon ändå kossamu, råbiffen.\\%
+		En kossamu, en kossamu,\\%
+		hon har så vackert innanlår, jättegott, kossamu\\%
+	}
+	\verse{%
+		En komparpung, en komparpung,\\%
+		är gigantiskt jättetung, jättetung.\\%
+		Och är den inte jättetung, jättetung,\\%
+		så är den ingen komparpung, vilket schwung.\\%
+		En komparpung, en komparpung,\\%
+		är gigantiskt jättetung\\%
+	}
+	\verse{%
+		Åh komparä, åh komparä,\\%
+		de är så fina folk de dä', eller fä.\\%
+		Och är de inte fina folk, eller fä,\\%
+		så har de skrevet fullt med smolk, eller fä.\\%
+		Åh komparä, åh komparä,\\%
+		de är så fina folk de dä', eller fä.\\%
+	}
+	\verse{%
+		Raj raj raj raj, raj raj raj raj,\\%
+		raj raj raj kuken, raj raj raj, elbasist.\\%
+		Raj raj pattar, raj kompvisa, runkapå,\\%
+		raj raj raj polen, raj partaj, tatraplan.\\%
+		Raj raj raj raj, raj Icas hund,\\%
+		raj raj raj raj, raj nejdå, hejdå.\\%
+	}
+}
+
+en_tequila = Also sprach Jose Cuervo = To the tune of “Also sprach Zarathustra” = {%
+	\verse{%
+		Te-, te-, te-, quila!\\%
+		Salt x 13\\%
+		Te-, te-, te-, quila!\\%
+		Salt x 12\\%
+		Te-, te-, te-, quila!\\%
+		Tequila and le-emon, le-emon\\%
+		Te-qui-la!\\%
 	}
 }
 
