@@ -59,7 +59,7 @@ en_writeinc = Write in C = To the tune of “Let It Be” = {%
 en_piratebay = The Pirate Bay = To the tune of “The Wellerman” = {%
 	\verse{%
 		\colorbox{gray!30}{\sc Songmaster Solo (All Verses)}\\%
-		There once was honor in for honest fellows\\%
+		There once was honor for honest fellows\\%
 		But they made it hard to enjoy our shows\\%
 		So I stood and declared: Yo-ho-ho\\%
 		A pirate's life for me!” (huh!)\\%
@@ -131,6 +131,33 @@ de_uberstock = Über Stock, über Stein = To the tune of “The army goes rollin
 		Juhu!  Gib gas, macht weiter, halt im Gang\\%
 		Und wohin wir gehen fallen auch mal Tränen\\%
 		wenn wir danken dem Publikum mit G'sang\\%
+	}
+}
+
+de_starkbier = Starkbier = To the tune of “O Tannenbaum” = {%
+	\verse{%
+		Ein Starkbier Eins, ein Starkbier Eins\\%
+		man wird kaum voll von Warsteins\\%
+		und wird man voll ersten Bier\\%
+		stimmt was anderes nicht mir dir\\%
+		Ein Starkbier Eins, ein Starkbier Eins\\%
+		man wird kaum voll von Warsteins\\%
+	}
+	\verse{%
+		Ein Bockbier her, ein Bockbier her\\%
+		Verlass auf das ist immer sehr\\%
+		Und bleibt man steif von Nummer Zwei\\%
+		Dann hau weg die Nummer Drei\\%
+		Ein Bockbier her, ein Bockbier her\\%
+		Verlass auf das ist immer sehr\\%
+	}
+	\verse{%
+		Ein Starkbier Drei, ein Starkbier Drei\\%
+		man wird kaum voll von Anderlei\\%
+		Und ist man immer noch nicht voll\\%
+		Dann greif zum reinen Alkohol\\%
+		Ein Starkbier Drei, ein Starkbier Drei\\%
+		man wird kaum voll von Anderlei\\%
 	}
 }
 
@@ -711,6 +738,21 @@ en_fastfood_long = Fast Food and Other Things = ? = {%
 		a pretty drunk couple and an Erasmus :;:\\%
 		:;: Pregnancy, pregnancy,\\%
 		a pretty drunk couple and an Erasmus :;:\\%
+	}
+}
+
+en_nvdia = Nvidia = ? = {%
+	\verse{%
+		Old Mc Jensen had a card\\%
+		Ai, Ai, No!\\%
+		And on his card he had some tech\\%
+		Ai, Ai, No!\\%
+		And a D-L here\\%
+		and an S-S there\\%
+		Here a frame, there a frame\\%
+		Everywhere a Gen-Frame\\%
+		Old McJensen had a card\\%
+		Ai, Ai, No!\\%
 	}
 }
 
@@ -1425,6 +1467,55 @@ en_yakkosworld = The Nations of the World = ? = {%
 		Hong Kong, Abu Dhabi, Qatar, Yugoslavia—\\%
 		Crete, Mauritania, then Transylvania—\\%
 		Monaco, Liechtenstein, Malta, and Palestine, Fiji, Australia, Sudan!\\%
+	}
+}
+
+en_elements = The Elements = To the tune of “The Major General's Song” = {%
+	\verse{%
+		There's antimony, arsenic, aluminum, selenium,\\%
+		And hydrogen and oxygen and nitrogen and rhenium,\\%
+		And nickel, neodymium, neptunium, germanium,\\%
+		And iron, americium, ruthenium, uranium,\\%
+	}
+	\verse{%
+		Europium, zirconium, lutetium, vanadium,\\%
+		And lanthanum and osmium and astatine and radium,\\%
+		And gold and protactinium and indium and gallium,\\%
+		And iodine and thorium and thulium and thallium.\\%
+	}
+	\verse{%
+		There's yttrium, ytterbium, actinium, rubidium,\\%
+		And boron, gadolinium, niobium, iridium,\\%
+		And strontium and silicon and silver and samarium,\\%
+		And bismuth, bromine, lithium, beryllium, and barium.\\%
+	}
+	\verse{%
+		There's holmium and helium and hafnium and erbium,\\%
+		And phosphorus and francium and fluorine and terbium,\\%
+		And manganese and mercury, molybdenum, magnesium,\\%
+		Dysprosium and scandium and cerium and cesium.\\%
+	}
+	\verse{%
+		And lead, praseodymium and platinum, plutonium,\\%
+		Palladium, promethium, potassium, polonium,\\%
+		And tantalum, technetium, titanium, tellurium,\\%
+		And cadmium and calcium and chromium and curium.\\%
+	}
+	\verse{%
+		There's sulfur, californium and fermium, berkelium,\\%
+		And also mendelevium, einsteinium, nobelium,\\%
+		And argon, krypton, neon, radon, xenon, zinc and rhodium,\\%
+		And chlorine, carbon, cobalt, copper, tungsten, tin and sodium.\\%
+	}
+	\verse{%
+		These are the only ones of which the news has come to Harvard,\\%
+		And there may be many others but they haven't been discovered. \\%
+	}
+}
+
+en_elements_old = The Elements (old version) = To the tune of “The Major General's Song” = {%
+	\verse{%
+		There's earth and air and fire and water. 
 	}
 }
 
@@ -2251,6 +2342,50 @@ es_spanishtoast = Spanish Toast = ? = {%
 	}
 }
 
+es_pinatasong = Piñata Song = ? = {%
+	\verse{%
+		:;: Dale, dale, dale,\\%
+		no pierdas el tino,\\%
+		porque si lo pierdes,\\%
+		pierdes el camino :;:\\%
+	}
+	\verse{%
+		Ya le diste una,\\%
+		ya le diste dos,\\%
+		ya le diste tres\\%
+		y tu tiempo se acabó.\\%
+	}
+	\verse{%
+		¡Se acabó!\\%
+		No quiero oro,\\%
+		no quiero plata.\\%
+		Yo lo que quiero\\%
+		es romper la piñata.\\%
+	}
+}
+
+en_pinatasong = Piñata Song = ? = {%
+	\verse{%
+		:;: Swing it, swing it, swing it,\\%
+		don't lose your stance,\\%
+		guess which way it's swinging,\\%
+		then you'll have a chance :;:\\%
+	}  
+	\verse{%
+		You swung it once\\%
+		and then you swung again.\\%
+		Swing it for a third time\\%
+		and get in line again!\\%
+		Again!\\%
+	}
+	\verse{%
+		I don't need gold,\\%
+		and I don't need money.\\%
+		I just really wanna\\%
+		break the piñata.\\%
+	}
+}
+
 fi_hyvatystavat = Hyvät Ystävät = ? = {%
 	\verse{%
 		Hyvät ystävät juhla voi alkaa\\%
@@ -2278,7 +2413,7 @@ fi_nyt_long = A Finnish Drinking Song (long version) = ? = {%
 	}
 }
 
-fi_nyt_short = A Finnish Drinking Song (long version) = ? = {%
+fi_nyt_short = A Finnish Drinking Song (short version) = ? = {%
 	\verse{%
 		i!\\%
 	}
@@ -3559,10 +3694,10 @@ xx_vemihelvete = Vem i helvete = ? = {%
 		Who the hell threw a rolling stone to my whiskey bottle? (four times)\\%
 	}
 	\verse{%
-		Wer zum Teufel warf ein Stein auf mein Flasche Rheinwein? (viermal)\\%
+		Quel connard a jeté une pierre dans mon verre de Champagne? (quatre fois)\\%
 	}
 	\verse{%
-		Quel connard a jeté une pierre dans mon verre de Champagne? (quatre fois)\\%
+		Wer zum Teufel warf ein Stein auf mein Flasche Rheinwein? (viermal)\\%
 	}
 }
 
