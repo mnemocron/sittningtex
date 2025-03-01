@@ -134,6 +134,21 @@ de_uberstock = Über Stock, über Stein = To the tune of “The army goes rollin
 	}
 }
 
+de_notenbanker = Das Lied der Notenbanker = To the tune of “Pippi Langstrumpf” = {%
+	\verse{%
+		Zwei mal drei macht vier\\%
+		widdewiddewitt und drei macht neune! \\%
+		Ich kopier' mir Geld\\%
+		widdewidde wie es mir gefällt! \\%
+	}
+	\verse{%
+		Ich kauf ein Haus\\%
+		ein Auto und ein Boot \\%
+		und jeder der sich wehrt \\%
+		kriegt unser Einmaleins gelehrt.\\%
+	}
+}
+
 de_starkbier = Starkbier = To the tune of “O Tannenbaum” = {%
 	\verse{%
 		Ein Starkbier Eins, ein Starkbier Eins\\%
