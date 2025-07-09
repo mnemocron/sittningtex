@@ -249,10 +249,8 @@ en_beercannon_swiss = Beer Cannon = To the tune of “Frère Jacques” = {%
 
 en_heresthefirst = Here's the First = To the tune of “Helan Går” = {%
 	\verse{%
-		Here’s the first,\\%
-		Sing hopp-faderallan-lallan-lay\\%
-		Here’s the first,\\%
-		Sing hopp-faderallan-lei.\\%
+		:;: Here’s the first,\\%
+		Sing hopp-faderallan-lallan-lay :;:\\%
 		The one who doesn’t drink the first\\%
 		Shall never, ever quench his thirst\\%
 		Here’s the first!\\%
@@ -3277,6 +3275,97 @@ fr_madamelamarquise = Madame la Marquise = ? = {%
 		Et c'est ainsi qu'en un moment,\\%
 		On vit périr votre jument!\\%
 		Mais à part ça, Madame la Marquise,\\%
+		Tout va très bien, tout va très bien.\\%
+	}
+}
+
+fr_toutvatresbien = Tout va très bien = ? = {%
+	\verse{%
+		\colorbox{gray!30}{\sc Songmaster solo:}\\%
+		Allô, allô James! Quelles nouvelles? \\%
+		Absenté depuis quinze jours,\\%
+		De ma fusée, je vous appelle;\\%
+		Que trouverai-je à mon retour?\\%
+	}
+	\verse{%
+		\colorbox{gray!30}{\sc Tous:}\\%
+		Tout va très bien, très cher Maître Bezos,\\%
+		Tout va très bien, tout va très bien.\\%
+		Pourtant il faut, il faut qu'l'on vous expose,\\%
+		On déplore un tout petit rien:\\%
+		Un incident, une bêtise,\\%
+		La faillite de votre entreprise.\\%
+		Mais à part ça, très cher Maître Bezos,\\%
+		Tout va très bien, tout va très bien.\\%
+	}
+	\verse{%
+		\colorbox{gray!30}{\sc Songmaster solo:}\\%
+		Allô, allô Georges! Quelles nouvelles?\\%
+		Tout Amazon a donc péri!\\%
+		Expliquez-moi, comptable fidèle,\\%
+		Comment cela s'est-il produit?\\%
+	}
+	\verse{%
+		\colorbox{gray!30}{\sc Tous, d'une voix grave:}\\%
+		Cela n'est rien, très cher Maître Bezos,\\%
+		Cela n'est rien, tout va très bien.\\%
+		Pourtant il faut, il faut qu'l'on vous expose,\\%
+		On déplore un tout petit rien:\\%
+		Elle fut victime d'une crise globale,\\%
+		Suiteà la troisième guerre mondiale\\%
+		Maisà part ça, très cher Maître Bezos,\\%
+		Tout va très bien, tout va très bien.\\%
+	}
+	\verse{%
+		\colorbox{gray!30}{\sc Songmaster solo:}\\%
+		Allô, allô Franck! Quelles nouvelles?\\%
+		Une guerre a été déclarée?\\%
+		Décrivez-moi, juriste modèle,\\%
+		Comment cela s'est-il passé?\\%
+	}
+	\verse{%
+		\colorbox{gray!30}{\sc Tous, d'une voix nasale:}\\%
+		Cela n'est rien, très cher Maître Bezos,\\%
+		Cela n'est rien, tout va très bien.\\%
+		Pourtant il faut, il faut qu'l'on vous expose, \\%
+		On déplore un tout petit rien:\\%
+		Tout le climat devint instable,\\%
+		Rendant la Terre inhabitable.\\%
+		Mais à part ça, très cher Maître Bezos,\\%
+		Tout va très bien, tout va très bien.\\%
+	}
+	\verse{%
+		\colorbox{gray!30}{\sc Songmaster solo:}\\%
+		Allô, allô Harold! Quelles nouvelles?\\%
+		Notre planète est donc ruinée?\\%
+		Expliquez-moi, car je chancelle,\\%
+		Comment cela s'est-il passé?\\%
+	}
+	\verse{%
+		\colorbox{gray!30}{\sc Tous:}\\%
+		Eh bien voilà, ttrss cher MaîtreBezos,\\%
+		Tout a soudain dégénéré,\\%
+		À peine êtes-vous parti pour le cosmos, \\%
+		Que l'monde entier s'est effondré,\\%
+		Tous vos douteux investissements, \\%
+		Firent capoter l'environnement,\\%
+		La sécheresse et les incendies,\\%
+		Firent chuter toute l'économie,\\%
+		Pendant que les inondations, \\%
+		Intensifièrent les migrations,\\%
+		Et de gigantesques ouragans, \\%
+		Achevèrent les gouvernements,\\%
+		Qui, pris dans le chaos total,\\%
+		Prirent des décisions immorales,\\%
+		Des missiles thermo-nucléaires,\\%
+		Ont mis le feu a l'atmosphère,\\%
+		Ruinant la civilisation,\\%
+		Et toute votre organisation,\\%
+		Dont les systèmes ont surchauffé, \\%
+		Désoriantant votre fusée,\\%
+		Et vous privant du carburant,\\%
+		Requis pour revenir vivant!\\%
+		Mais à part ça, très cher Maître Bezos, \\%
 		Tout va très bien, tout va très bien.\\%
 	}
 }
